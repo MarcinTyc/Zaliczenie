@@ -1,5 +1,5 @@
 # Zaliczenie
-### Gotowa Aplikacja Quizu matematycznego - przepisana na quiz historyczny
+### Gotowa Aplikacja quizu matematycznego - przepisana na quiz historyczny z modyfikacją wyglądu oraz budowy.
 
 Przepisałem tablice questions pod własną treść.
 Pierwotnie był to quiz matematyczny z równaniami: Ja wymyśliłem sobie quiz historyczny.
